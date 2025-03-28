@@ -6,4 +6,4 @@ type transport struct { }
 
 
 // Peer will handle anything related to remote nodes
-type peer struct { }
+type Peer struct { }
